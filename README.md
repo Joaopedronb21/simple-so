@@ -4,3 +4,4 @@ https://www.youtube.com/watch?v=Jws7BHrts6g&list=PLsoiO2Be-2z8BfsSkspJfDiuKeC9-L
 •	Sofri com problemas iniciais como:
     MSCOMCTL.OCX Error 
 Recomendo utilizar VM
+Ferramentas utilizadas: VirtualBox; NASM; etc...
