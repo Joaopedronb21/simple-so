@@ -7,4 +7,5 @@ https://www.youtube.com/watch?v=Jws7BHrts6g&list=PLsoiO2Be-2z8BfsSkspJfDiuKeC9-L
     [solucionando o problema](https://www.youtube.com/watch?v=ZSJnJULnrng)
 <div align="left">
 Recomendo utilizar VM
+<div align="left">
 Ferramentas utilizadas: VirtualBox; NASM; etc...
