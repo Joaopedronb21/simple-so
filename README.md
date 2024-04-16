@@ -23,3 +23,5 @@ https://www.youtube.com/watch?v=Jws7BHrts6g&list=PLsoiO2Be-2z8BfsSkspJfDiuKeC9-L
 Recomendo utilizar VM
 <div align="left">
 Ferramentas utilizadas: VirtualBox; NASM; etc...
+<div align="left">
+Seguindo o vídeo é necessario um pendrive para rodar o SO na VM e configura-la também  
