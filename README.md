@@ -5,6 +5,14 @@ https://www.youtube.com/watch?v=Jws7BHrts6g&list=PLsoiO2Be-2z8BfsSkspJfDiuKeC9-L
     *Sofri com problemas iniciais como:
        MSCOMCTL.OCX Error 
     [solucionando o problema](https://www.youtube.com/watch?v=ZSJnJULnrng)
+    usar este comando como administrador no cmd (64BITS):
+        <div align="left">
+        cd C:\Windows\SysWOW64
+        <div align="left">
+    depois:
+    <div align="left">
+        regsvr32 mscomctl.ocx
+    <div align="left">
         COMDLG32.OCX Error
     [solucionando o problema](https://www.youtube.com/watch?v=_Fpp6lYpS-U)
     <div align="left">
