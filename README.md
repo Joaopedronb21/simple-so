@@ -45,4 +45,5 @@ após fazer os passos descritos acima siga esses passos a seguir
 
 - Janela Principal
 - Interface gráfica simples
-- Bibliotecas de leitura de disco; monitor; e window memory (elas estão localizadas no diretório `/Hardware`) 
+- Bibliotecas de leitura de disco; monitor; e window memory (elas estão localizadas no diretório `/Hardware`)
+<h2>Confirando FergoRaw</h2>
