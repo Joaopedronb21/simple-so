@@ -34,8 +34,10 @@ após fazer os passos descritos acima siga esses passos a seguir
     
 - use o Nasm para converter arquivos `.asm` em `.bin`
 - execute o arquivo Assembler para gerar os arquivos
+<h2>Passo 2</h2>
 - compile os arquivos `.bin` gerados pelo Nasm no fergoraw
 - após gerar o arquivo `.img`, execute o Rufus para montar do SO utilizando um pendrive
+<h2>Pronto</h2>
 - agora é só testar em uma VM (recomendado) ou no próprio computador físico
 <h2>Implementações</h2>
 
