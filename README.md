@@ -47,3 +47,10 @@ após fazer os passos descritos acima siga esses passos a seguir
 - Interface gráfica simples
 - Bibliotecas de leitura de disco; monitor; e window memory (elas estão localizadas no diretório `/Hardware`)
 <h2>Confirando FergoRaw</h2>
+
+-Percebe-se que todos os componentes estão no cabeçote 0, cilindro 0, o `bootloader` sempre deve estar no primeiro setor, seguido pelo arquivo `kernel` nos setores 2 e 3, e finalmente pelo `window` nos setores 4 e 5.
+
+-"File to add to the raw image" significa os arquivos que serão adicionados no disco, `bootloader.bin`, `kernel.bin` e `window.bin`.
+
+-Output file significa o local onde a imagem gerada será salva.
+
