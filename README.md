@@ -1,4 +1,6 @@
 # simple-so
+![image](https://github.com/Joaopedronb21/simple-so/assets/105052730/0fd9a970-e1ba-40b4-84af-52ca68429a2c)
+
 <h2>Objetivos</h2>
 Um projeto de faculdade no qual o objetivo é criar um SO simples utilizando Assembly para a matéria de Sistemas Operacionais utilizando a playlist a seguir:
 https://www.youtube.com/watch?v=Jws7BHrts6g&list=PLsoiO2Be-2z8BfsSkspJfDiuKeC9-LSca&index=1
@@ -53,4 +55,7 @@ após fazer os passos descritos acima siga esses passos a seguir
 - "File to add to the raw image" significa os arquivos que serão adicionados no disco, `bootloader.bin`, `kernel.bin` e `window.bin`.
 
 - Output file significa o local onde a imagem gerada será salva.
+![Uploading image.png…]()
+<h1>OBRIGADO KLEBER & KIDOS</h1>
+
 
