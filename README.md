@@ -57,7 +57,9 @@ após fazer os passos descritos acima siga esses passos a seguir
 - Output file significa o local onde a imagem gerada será salva.
 ![FergoRaw](https://i.imgur.com/nPyMDgr.png)
 <h2>Finalizando</h2>
+
 ![image](https://github.com/Joaopedronb21/simple-so/assets/105052730/17d7b24e-2845-436f-9c23-420c9f740087)
+
 
 <h1>OBRIGADO KLEBER & KIDDEOS</h1>
 
