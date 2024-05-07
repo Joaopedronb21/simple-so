@@ -55,7 +55,8 @@ após fazer os passos descritos acima siga esses passos a seguir
 - "File to add to the raw image" significa os arquivos que serão adicionados no disco, `bootloader.bin`, `kernel.bin` e `window.bin`.
 
 - Output file significa o local onde a imagem gerada será salva.
-![Uploading image.png…]()
-<h1>OBRIGADO KLEBER & KIDOS</h1>
+![image](https://github.com/Joaopedronb21/simple-so/assets/105052730/17d7b24e-2845-436f-9c23-420c9f740087)
+
+<h1>OBRIGADO KLEBER & KIDDEOS</h1>
 
 
